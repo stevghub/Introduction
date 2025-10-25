@@ -1,4 +1,4 @@
-# Hello Im Steven
+# Hello! Im Steven
 
 [LinkedIn](https://www.linkedin.com/in/stevenjaesuh/)
 
