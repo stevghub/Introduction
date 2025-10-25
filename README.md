@@ -5,10 +5,17 @@
 ## Introduction
 
 Cybersecurity specialist with a hands on mindset. I solve problems, talk clearly, and keep teams moving. I have experience with large networks and multi site setups.
+These are the homeprojects I have made throughout my cybersecurity experience and have uploaded all of them into my Github. I have adopted the formats from other online projects to create an easier experience for the reader :D
 
 ## Objective
 
 Land a security analyst role where I protect systems, cut risk, and speed up response. I want to grow in threat detection, incident handling, and automation.
+
+## Projects
+* [Homelab SIEM](https://github.com/stevghub/Homelab-SIEM)
+* [Homelab Honeypot](https://github.com/stevghub/Homelab-Honeypot)
+* [Virtual Machine Malware Analysis](https://github.com/stevghub/VM-Malware-Lab)
+*
 
 ## Skills
 
