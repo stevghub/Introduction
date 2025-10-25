@@ -17,6 +17,12 @@ Land a security analyst role where I protect systems, cut risk, and speed up res
 * [Virtual Machine Malware Analysis](https://github.com/stevghub/VM-Malware-Lab)
 * [File Integrity Monitor](https://github.com/stevghub/File-Integrity-Monitor)
 
+## Certifications
+
+* CompTIA CySA+ Apr 2025
+* CompTIA CSAP Apr 2025
+* CompTIA Security+ Aug 2022
+
 ## Skills
 
 * SIEM and SOAR for daily ops and alert tuning
@@ -29,11 +35,6 @@ Land a security analyst role where I protect systems, cut risk, and speed up res
 * Microsoft 365 admin and security
 * English and Korean
 
-## Certifications
-
-* CompTIA CySA+ Apr 2025
-* CompTIA CSAP Apr 2025
-* CompTIA Security+ Aug 2022
 
 ## Contact
 
