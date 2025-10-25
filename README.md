@@ -15,7 +15,7 @@ Land a security analyst role where I protect systems, cut risk, and speed up res
 * [Homelab SIEM](https://github.com/stevghub/Homelab-SIEM)
 * [Homelab Honeypot](https://github.com/stevghub/Homelab-Honeypot)
 * [Virtual Machine Malware Analysis](https://github.com/stevghub/VM-Malware-Lab)
-*
+* [File Integrity Monitor](https://github.com/stevghub/File-Integrity-Monitor)
 
 ## Skills
 
