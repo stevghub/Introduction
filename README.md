@@ -9,7 +9,7 @@ These are the homeprojects I have made throughout my cybersecurity experience an
 
 ## Objective
 
-Land a security analyst role where I protect systems, cut risk, and speed up response. I want to grow in threat detection, incident handling, and automation.
+Security analyst role where I protect systems, cut risk, and speed up response. In the ever evolving world of cybersecurity I want to expand my knowledge in threat detection, incident handling, and automation.
 
 ## Projects
 * [Homelab SIEM](https://github.com/stevghub/Homelab-SIEM)
