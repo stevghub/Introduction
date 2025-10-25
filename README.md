@@ -1,39 +1,35 @@
-# Steven J Suh
+# Hello Im Steven
 
 [LinkedIn](https://www.linkedin.com/in/stevenjaesuh/)
 
 ## Introduction
 
-Cybersecurity specialist with IT and account management experience. Strong problem solving, clear communication, and team coordination. Trained on warehouse scale operations and multi site networks.
+Cybersecurity specialist with a hands on mindset. I solve problems, talk clearly, and keep teams moving. I have experience with large networks and multi site setups.
 
 ## Objective
 
-Earn a security analyst role where you protect systems, reduce risk, and improve response. Grow in threat detection, incident handling, and automation.
+Land a security analyst role where I protect systems, cut risk, and speed up response. I want to grow in threat detection, incident handling, and automation.
 
 ## Skills
 
-<ul>
-<li>Security operations SIEM and SOAR</li>
-<li>Network security firewalls, routers, switches</li>
-<li>Vulnerability triage and impact analysis</li>
-<li>Risk management frameworks and system security</li>
-<li>OSINT and technical security awareness</li>
-<li>PowerShell for user provisioning and automation</li>
-<li>Wireshark and network tools</li>
-<li>Microsoft 365 administration</li>
-<li>English and Korean speaking proficiency</li>
-</ul>
+* SIEM and SOAR for daily ops and alert tuning
+* Firewalls, routers, and switches setup and hardening
+* Vulnerability triage and impact reviews
+* Risk frameworks and practical control design
+* OSINT and security awareness training
+* PowerShell for user provisioning and automation
+* Wireshark and network troubleshooting
+* Microsoft 365 admin and security
+* English and Korean
 
 ## Certifications
 
-<ul>
-<li>CompTIA CySA+ Apr 2025</li>
-<li>CompTIA CSAP Apr 2025</li>
-<li>CompTIA Security+ Aug 2022</li>
-</ul>
+* CompTIA CySA+ Apr 2025
+* CompTIA CSAP Apr 2025
+* CompTIA Security+ Aug 2022
 
 ## Contact
 
 San Francisco, California
 [StevenJaeSuh@gmail.com](mailto:StevenJaeSuh@gmail.com)
-[408 657 7890](tel:+14086577890)
+[408-657-7890](tel:+14086577890)
